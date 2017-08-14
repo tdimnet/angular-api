@@ -1,3 +1,1 @@
-// TODO :
-  // Recherche
-  // Pagination
+angular.module("app", []);
